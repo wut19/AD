@@ -1,0 +1,38 @@
+# standard
+Accuracy: 89.721774
+ F1: 0.945825
+ AUC: 0.606906
+fpr95: 0.890335
+Detection: 0.422025
+auprin: 0.925630
+auprout: 0.151407
+
+# change '-' to logD
+Accuracy: 89.721774
+ F1: 0.945825
+ AUC: 0.606027
+fpr95: 0.890877
+Detection: 0.421593
+auprin: 0.925234
+auprout: 0.151086
+
+
+
+# equal real and fake reviews 
+Accuracy: 52.521350
+ F1: 0.671759
+ AUC: 0.616854
+fpr95: 0.885319
+Detection: 0.415277
+auprin: 0.603500
+auprout: 0.610147
+
+# retrained 
+Accuracy: 53.314355
+ F1: 0.674788
+ AUC: 0.621252
+fpr95: 0.872712
+Detection: 0.411956
+auprin: 0.606740
+auprout: 0.621999
+
